@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UDP File Swipe</string>
+    <string name="IPHeader">Enter IP to Send to</string>
+    <string name="FilenameHeader">Enter File Name</string>
+    <string name="SendButton">Send</string>
+    <string name="RecHeader">Enter Filename to Save As</string>
+    <string name="ReceiveButton">Receive</string>
+    <string name="IPheader">Enter IP to Send To</string>
+    <string name="Filenameheader">Enter Filename to Send</string>
+    <string name="Saveasheader">Save Incoming File As:</string>
+    <string name="Startbutton">Start</string>
+    <string name="SendButton2">Send</string>
+    <string name="ReceiveButton2">Receive</string>
+    <string name="SendReceiveButton">Send Receive Simultaneously</string>
+    <string name="IPheader1">My IP:192.168.43.1</string>
+    <string name="IPheader2">My IP: 192.168.43.</string>
+</resources>
